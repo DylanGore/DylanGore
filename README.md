@@ -8,4 +8,4 @@
 
 ## GitHub Stats
 
-![Dylan's github stats](https://github-readme-stats.vercel.app/api?username=DylanGore&count_private=true)
+![Dylan's github stats](https://github-readme-stats.vercel.app/api?username=DylanGore&count_private=true&theme=vue-dark)
